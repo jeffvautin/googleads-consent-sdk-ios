@@ -35,7 +35,7 @@ static NSTimeInterval const PACAnimationDisplayDuration = 0.3;
   BOOL _hasPresented;
 }
 
-- (nullable instancetype)init {
+- (instancetype)init {
   return nil;
 }
 
